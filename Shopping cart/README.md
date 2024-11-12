@@ -1,1 +1,1 @@
-"# pijaca-shopping-cart" 
+"shopping-cart" 
